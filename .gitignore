@@ -1,1 +1,3 @@
-TestScript.sql
+# Ignore testing scripts
+
+/TestScripts
